@@ -1,5 +1,5 @@
 <div align='center'>
-    <h3 align="center">Hi! I'm Huiyeong🙌</h3>
+    <h1 align="center">Hi! I'm Huiyeong🙌</h1>
     <br/>
     <h3 align="center">🛠️Tech Stack🛠️</h3>
     <img src="https://img.shields.io/badge/Unity-00000?style=flat-square&logo=Unity&logoColor=white"/>
