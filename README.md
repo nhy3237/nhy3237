@@ -10,9 +10,7 @@
     <img src="https://img.shields.io/badge/WinAPI-blue?style=flat-square&logo=WinAPI&logoColor=white"/>
     <img src="https://img.shields.io/badge/Visual Studio-5C2D91?logo=Visual Studio&logoColor=white">
     <img src="https://img.shields.io/badge/Github-181717?logo=Github&logoColor=white">
-
-    <br/>
-    <br/>
+    <br><br/><br><br/>
 <a href="https://hits.seeyoufarm.com">
         <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnhy3237&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Github&edge_flat=true"/>
     </a>
